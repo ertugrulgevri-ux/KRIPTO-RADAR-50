@@ -11,7 +11,7 @@ import pandas as pd
 # Automatic trading: DISABLED
 # =====================================================
 
-BASE_URL = "https://api.binance.com"
+BASE_URL = "https://data-api.binance.vision"
 
 TIMEFRAMES = {
     "5m": 0.10,
